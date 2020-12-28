@@ -19,3 +19,5 @@ I'm passionate about creating websites 💻. I am focusing on the frontend right
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white) ![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilnurkiewicz&layout=compact)
